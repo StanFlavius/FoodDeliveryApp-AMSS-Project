@@ -1,7 +1,5 @@
 # FoodDeliveryApp-AMSS-Project
 
-# RuntimeErrorPresentation
-
 Frontend:
 https://github.com/dragoshomner/mss-restaurant-booking
 
